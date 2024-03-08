@@ -5,7 +5,7 @@ html {
 
 body {
     color: var(--text-color);
-    --font-family-base: var(--font-family-base);
+    font-family: var(--font-family-base);
     font-size: var(--font--size--medium);
 }
 
@@ -13,7 +13,7 @@ a {
     color: var(--text-color);
 }
 
-.visually-hiden {
+.visually-hidden {
     display: none;
 }
 
