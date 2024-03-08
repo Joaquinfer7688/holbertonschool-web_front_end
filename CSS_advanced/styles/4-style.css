@@ -11,7 +11,7 @@ a {
     color: var(--text-color);
 }
 
-.visually-hiden {
+.visually-hidden {
     display: none;
 }
 
